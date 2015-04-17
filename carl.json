@@ -1,0 +1,32 @@
+{
+ "name" : "Carl",
+ "height": 90,
+ "weight": 180,
+ "anxiety": 5,
+ "fear": 4,
+ "love" : 6,
+ "confidence": 5,
+ "esteem" : 8,
+ "cockiness": 8,
+ "languages": [
+  { 
+  	"English": 
+  	{ 
+  		"Level": 10 
+  	} 
+  },
+  { 
+  	"French": 
+  	{ 
+  		"Level": 8
+  	} 
+  },
+  { 
+  	"Arabic": 
+  	{ 
+  		"Level": 7
+  	} 
+  }
+  ],
+  "Nationality": "Canadian"
+}

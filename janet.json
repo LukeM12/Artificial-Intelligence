@@ -1,0 +1,27 @@
+{
+ "name" : "Carl",
+ "height": 90,
+ "weight": 180,
+ "anxiety": 5,
+ "languages": [
+  { 
+  	"English": 
+  	{ 
+  		"Level": 10 
+  	} 
+  },
+  { 
+  	"French": 
+  	{ 
+  		"Level": 8
+  	} 
+  },
+  { 
+  	"Arabic": 
+  	{ 
+  		"Level": 7
+  	} 
+  }
+  ],
+  "Nationality": "Canadian"
+}
