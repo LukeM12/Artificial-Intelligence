@@ -6,7 +6,9 @@
  "fear": 4,
  "love" : 6,
  "confidence": 5,
+  "humor": 5,
  "esteem" : 8,
+ "sexiness": 7,
  "cockiness": 8,
  "languages": [
   { 

@@ -1,26 +1,33 @@
 {
  "name" : "Carl",
- "height": 90,
- "weight": 180,
+ "height": 45,
+ "weight": 120,
  "anxiety": 5,
+ "fear": 4,
+ "love" : 4,
+ "confidence": 2,
+  "humor": 3,
+ "esteem" : 4,
+ "sexiness": 2,
+ "cockiness": 1,
  "languages": [
   { 
-  	"English": 
-  	{ 
-  		"Level": 10 
-  	} 
+    "English": 
+    { 
+      "Level": 10 
+    } 
   },
   { 
-  	"French": 
-  	{ 
-  		"Level": 8
-  	} 
+    "French": 
+    { 
+      "Level": 8
+    } 
   },
   { 
-  	"Arabic": 
-  	{ 
-  		"Level": 7
-  	} 
+    "Arabic": 
+    { 
+      "Level": 7
+    } 
   }
   ],
   "Nationality": "Canadian"
